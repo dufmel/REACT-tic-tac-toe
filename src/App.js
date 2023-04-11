@@ -12,6 +12,7 @@ function App() {
   function startGame(){
     setGameState(()=>data)
     setWinner(false)
+    setCurrentPlayer("O")
     }
 
   useEffect(() => {
