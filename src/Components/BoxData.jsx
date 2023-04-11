@@ -1,4 +1,4 @@
-export default[
+const boxData = [
     {
         id: 1,
         isMarked: false,
@@ -45,3 +45,5 @@ export default[
         player: ""
     },   
 ]
+
+export default boxData
