@@ -2,17 +2,17 @@ const boxData = [
     {
         id: 1,
         isMarked: false,
-        player: "X"
+        player: ""
     },   
     {
         id: 2,
         isMarked: false,
-        player: "O"
+        player: ""
     },   
     {
         id: 3,
         isMarked: false,
-        player: "X"
+        player: ""
     },   
     {
         id: 4,
